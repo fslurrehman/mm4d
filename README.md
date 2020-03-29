@@ -24,6 +24,13 @@ It contains a workbook named covid19sir.ipynb. You can run this to simulate the 
 2. https://www.wired.com/story/phones-track-spread-covid19-good-idea/
 3. After 6 hours of making this repo, 3Blue1Brown uploaded a very useful video on detailed simulation of epidemics. The source code of his simulation is at: https://github.com/3b1b/manim/blob/shaders/from_3b1b/active/sir.py while animation engine for his video can be found at: https://github.com/3b1b/manim whose pre-requisite requirements seems to be difficult to install. Also there is some info regarding outbreak at: https://meltingasphalt.com/interactive/outbreak/. It is worth watching the 3Blue1Brown video which is at: https://www.youtube.com/watch?v=gxAaO2rsdIs 
 4. More explanation of SIR model from mathematical point of view. This video is useful in understanding differential equations used in SIR model. 
+5. Log scale plot by Aatish in python https://aatishb.com/covidtrends/ and source code at: https://github.com/aatishb/covid . It is useful in understanding which country has drop in cases after reaching given peak. It is based on idea that time isn't important. It is explained at minutephysics: https://www.youtube.com/watch?v=54XLXg4fYsc
+6. Understanding logarithmic scales: https://www.nytimes.com/2020/03/20/health/coronavirus-data-logarithm-chart.html
+7. What we can learn from the countries winning the coronavirus fight: https://www.abc.net.au/news/2020-03-26/coronavirus-covid19-global-spread-data-explained/12089028 Great explainer on log scales and growth curves explained in the context of COVID-19 in different countries.
+
+# Data
+1. COVID19 Data: https://github.com/CSSEGISandData/COVID-19
+2. Our World in Data: https://ourworldindata.org/coronavirus It contain good visualization of data in its links. 
 
 # todo:
 1. Adding description of modules and explanation for code. 
